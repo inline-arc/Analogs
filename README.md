@@ -1,6 +1,6 @@
 # analogs
 
-r/analog with reddit api with the next js Server side render (SSR)
+r/analog with reddit api with the next js Server side render (SSR) making render more dynamic reactive
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
